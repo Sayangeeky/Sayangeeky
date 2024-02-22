@@ -10,9 +10,8 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4D16AQEXTKoBnCLNCA/profile-displaybackgroundimage-shrink_350_1400/0/1700299052928?e=1714003200&v=beta&t=_Mo8KujNCZm3xRtj3db-AEVLp4aEfuXOyCYQDzoAV1o)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: EXPRESS / NODE JS / REACT JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
