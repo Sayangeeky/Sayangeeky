@@ -1,15 +1,15 @@
-### Hi there 👋
-
-
-
-- 🔭 I’m currently working on MERN 
-- 🌱 I’m currently learning Full stack web developmeent
-- 📫 How to reach me: www.linkedin.com/in/sayan-dasgupta-73094b1a1
 - ### Hi there 👋, my name is Sayan
 
 
 
-Skills: EXPRESS / NODE JS / REACT JS / JS / HTML / CSS
+- 🔭 I’m currently learning on DevOps
+- 🌱 I’m currently working on Full stack web developmeent
+- 📫 How to reach me: www.linkedin.com/in/sayan-dasgupta-73094b1a1
+
+
+
+
+Skills: DOCKER/ REDIS/ DISTRIBUTED SYSTEM/ SYSTEM DESIGN/ APACHE KAFKA/ EXPRESS / NODE JS / REACT JS / JS / HTML / CSS
 
 
 
