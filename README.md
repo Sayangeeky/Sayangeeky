@@ -30,7 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Vue.JS-000?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
 </p>
