@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/sayan-dasgupta-73094b1a1">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="sayandg41@gmail.com">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
   </a>
 </p>
