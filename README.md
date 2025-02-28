@@ -11,7 +11,7 @@
 - 💻 **Currently working as a Full-Stack Developer**  
 - 🔭 Exploring **DevOps, Kubernetes, and Cloud Infrastructure**  
 - ⚡ Passionate about **scalability, distributed systems, and backend engineering**  
-- 🌱 Learning **Rust, Cairo, Zig, and Solidity**  
+- 🌱 Learning **Rust, solana**  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sayan-dasgupta-73094b1a1)  
 
 ---
@@ -30,7 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=vue.js" />
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
 </p>
