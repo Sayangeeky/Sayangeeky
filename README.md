@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Sayan</h1>
 
 <p align="center">
-  🔹 Full-Stack Developer | 🚀 DevOps Enthusiast | 🏗️ System Design  
+  <b>Full-Stack Developer | DevOps Enthusiast | System Design Engineer</b>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 💻 **Currently working as a Full-Stack Developer**  
-- 🔭 Exploring **DevOps, Kubernetes, and Cloud Infrastructure**  
-- ⚡ Passionate about **scalability, distributed systems, and backend engineering**  
-- 🌱 Learning **Rust, solana**  
+- 💻 **Full-Stack Developer with a passion for scalable, high-performance applications**  
+- 🔭 Currently exploring **DevOps, Kubernetes, and Cloud Infrastructure**  
+- ⚡ Enthusiast in **Distributed Systems, System Design, and Backend Engineering**  
+- 🌱 Learning **Rust, Solana, and Blockchain Development**  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sayan-dasgupta-73094b1a1)  
 
 ---
@@ -24,15 +24,17 @@
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity" />
 </p>
 
-### **🌐 Full-Stack & Backend**  
+### **🌐 Full-Stack & Backend Development**  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Vue.JS-000?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs" />
   <img src="https://img.shields.io/badge/React.js-000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js" />
 </p>
 
 ### **📦 Databases & Caching**  
@@ -42,13 +44,14 @@
   <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
 </p>
 
-### **⚡ DevOps & Infrastructure**  
+### **⚡ DevOps & Cloud Infrastructure**  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform" />
   <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx" />
 </p>
 
 ---
@@ -62,13 +65,3 @@
 
 ---
 
-## 📫 Let's Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayan-dasgupta-73094b1a1">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="sayandg41@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
