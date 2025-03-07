@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust" />
   <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity" />
+<!--   <img src="https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity" /> -->
 </p>
 
 ### **🌐 Full-Stack & Backend Development**  
